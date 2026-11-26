@@ -30,7 +30,7 @@ O sistema é organizado em camadas: **model → repository → controller → vi
 Pré-requisitos: **JDK 17+** e **Maven**.
 
 ```bash
-git clone https://github.com/reireymond/IFMG-PetshopBichin.git
+git clone https://github.com/Hey-Reymond/IFMG-PetshopBichin.git
 cd IFMG-PetshopBichin
 mvn compile
 mvn exec:java -Dexec.mainClass="br.edu.ifmg.poo04.Main"
@@ -52,7 +52,7 @@ docs/             enunciado do trabalho
 
 ## 👨‍💻 Autor
 
-[Kaua Teixeira Nascimento](https://github.com/reireymond)
+[Kaua Teixeira Nascimento](https://github.com/Hey-Reymond)
 
 ## 📄 Licença
 
